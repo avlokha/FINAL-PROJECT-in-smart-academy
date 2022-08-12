@@ -1,0 +1,268 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+ol,
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+.container {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+}
+/* pirveli */
+.first {
+  background-color: #dddddd;
+  height: 972px;
+}
+.roca-about {
+  display: flex;
+  justify-content: space-between;
+}
+.roca {
+  max-width: 113px;
+  width: 100%;
+  height: 56px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 40px;
+  /* padding-top: 48px; */
+  /* padding-left: 52px; */
+  padding: 48px 0 0 52px;
+}
+.roca span {
+  color: #1a1a1a;
+  letter-spacing: 1.2px;
+  font-family: "Poppins", sans-serif;
+}
+.bluedot {
+  width: 8px;
+  height: 8px;
+  background-color: #0081ff;
+  border-radius: 50px;
+  margin-top: 20px;
+}
+.resume {
+  margin-top: 12px;
+  margin-left: 25px;
+  letter-spacing: 1.2px;
+  color: #b3b3b3;
+}
+.bluedot span {
+  opacity: 1%;
+}
+.first2 {
+  width: 170px;
+  height: 221px;
+  margin-top: 25px;
+  margin-right: 118px;
+}
+
+.one {
+  font-size: 158.3px;
+  font-family: "Poppins", sans-serif;
+  position: absolute;
+  margin-left: 25px;
+  color: #1c1c1c;
+}
+.two {
+  font-size: 43px;
+  font-family: "Poppins", sans-serif;
+  letter-spacing: 1.3px;
+  position: absolute;
+  padding-top: 80px;
+  color: #373737;
+}
+.two:hover {
+  color: #e93656;
+}
+.second1 {
+  width: 582px;
+  height: 292px;
+  margin-top: 5%;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+}
+.second {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.imgdiv img {
+  width: 500px;
+  border-radius: 10%;
+}
+.hi {
+  font-size: 49px;
+}
+.nika {
+  font-size: 71px;
+  font-family: "Glacial Indifference";
+  font-weight: bolder;
+}
+.iam {
+  font-size: 23px;
+  margin-top: 10px;
+}
+.socimg img {
+  margin-left: 20px;
+  margin-top: 50px;
+}
+
+.thirt {
+  font-size: 24px;
+  font-family: "Montserrat", sans-serif;
+  margin-top: 5%;
+  margin-left: 75%;
+  max-width: 304px;
+}
+
+.redred {
+  color: #e93656;
+}
+.blackblack {
+  color: #212121;
+}
+.line {
+  background-color: #e93656;
+  width: 100%;
+  height: 6px;
+  margin-top: 5%;
+  border-radius: 5px;
+}
+/* meoree */
+
+.second-second {
+  height: 972px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.name-info1 h2 {
+  font-size: 40px;
+  color: #222222;
+  margin-bottom: 10px;
+}
+.name-info1 span {
+  font-size: 14px;
+  color: #daae19;
+  font-weight: bold;
+  margin-left: 58%;
+}
+.name-info1 p {
+  width: 334px;
+  margin-top: 60px;
+  color: #555555;
+}
+.btn {
+  width: 152px;
+  height: 50px;
+  border-style: none;
+  margin-left: 58%;
+  margin-top: 15%;
+  color: #222222;
+}
+.btn:hover {
+  background-color: #e93656;
+  cursor: pointer;
+  color: #ffffff;
+}
+.imgimg1 {
+  width: 430px;
+  height: 630px;
+}
+
+.imgimg1 img {
+  width: 100%;
+  border-radius: 15px;
+}
+
+.skiils1 {
+  width: 300px;
+  height: 50px;
+  font-size: 20px;
+  color: #555555;
+}
+.skills2 {
+  width: 256px;
+  height: 9px;
+  background-color: #f0f0f0;
+  margin-top: 15px;
+}
+
+.square {
+  display: flex;
+}
+.squares1 {
+  width: 50px;
+  height: 50px;
+  background-color: #f9f9f9;
+  margin-left: 10px;
+  margin-top: 25%;
+  color: #6b6b6b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.squares1:hover {
+  background-color: #15263e;
+}
+
+.third-third {
+  background-color: #131a36;
+  width: 100%;
+  height: 210px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.third-third article {
+  width: 295px;
+  height: 96px;
+}
+
+.phone-number div {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  border: 2px dashed #ffffff;
+}
+.phone-number img {
+  width: 29px;
+}
+.phone-number div:hover {
+  background-color: #e93656;
+  border-color: #e93656;
+}
+.phonediv {
+  display: flex;
+}
+.numberdiv {
+  display: flex;
+  flex-direction: column;
+  margin-left: 5%;
+}
+.phone1-1 {
+  font-size: 25px;
+  color: #ffffff;
+}
+.numspan {
+  margin-top: 5%;
+  font-size: 14px;
+  color: #dfdfdf;
+}
+.numspan1 {
+  font-size: 14px;
+  color: #dfdfdf;
+}
