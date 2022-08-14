@@ -1,11 +1,44 @@
 @font-face {
-  font-family: "Poppins-extra";
-  src: url("Poppins-ExtraBold.eot");
-  src: url("Poppins-ExtraBold.eot?#iefix") format("embedded-opentype"),
-    url("Poppins-ExtraBold.woff2") format("woff2"),
-    url("Poppins-ExtraBold.woff") format("woff"),
-    url("Poppins-ExtraBold.ttf") format("truetype");
-  font-weight: bold;
-  font-style: normal;
-  font-display: swap;
+  font-family: "Regular";
+  src: url("GlacialIndifference-Regular.otf");
+}
+@font-face {
+  font-family: "Bold";
+  src: url("GlacialIndifference-Bold.otf");
+}
+@font-face {
+  font-family: "Jaapokki";
+  src: url("Jaapokki-Regular.otf");
+}
+@font-face {
+  font-family: "Poppins-ExtraBold";
+  src: url("Poppins-ExtraBold.otf");
+}
+@font-face {
+  font-family: "Poppins-SemiBold";
+  src: url("Poppins-SemiBold.otf");
+}
+@font-face {
+  font-family: "Montserrat-Regular";
+  src: url("Montserrat-Regular.ttf");
+}
+@font-face {
+  font-family: "Montserrat-Bold";
+  src: url("Montserrat-Bold.ttf");
+}
+@font-face {
+  font-family: "Muli";
+  src: url("Muli.ttf");
+}
+@font-face {
+  font-family: "Muli-Regular";
+  src: url("Muli-Regular.ttf");
+}
+@font-face {
+  font-family: "Roboto-Light";
+  src: url("Roboto-Light.ttf");
+}
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("Roboto-Regular.ttf");
 }
