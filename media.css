@@ -1,0 +1,363 @@
+@media all and (max-width: 1200px) {
+  .container {
+    width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .imgdiv img {
+    width: 100%;
+  }
+
+  .first {
+    width: 700px;
+  }
+  .roca {
+    max-width: 50px;
+    width: 100%;
+  }
+  .first2 {
+    width: 50px;
+    height: 50px;
+  }
+  .one {
+    font-size: 50px;
+  }
+  .two {
+    font-size: 20px;
+  }
+  .second1 {
+    width: 200px;
+  }
+  .thirt {
+    max-width: 100px;
+  }
+  .second-second {
+    height: 700px;
+  }
+  .name-info1 h2 {
+    font-size: 20px;
+  }
+  .name-info1 p {
+    width: 200px;
+  }
+  .btn {
+    width: 50px;
+    height: 20px;
+  }
+  .imgimg1 img {
+    width: 400px;
+  }
+
+  .forth-forth {
+    width: 1200px;
+    height: 772px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .maincontainer {
+    width: 150px;
+    height: 300px;
+  }
+  .fifth {
+    height: 300px;
+    flex-wrap: wrap;
+  }
+  .fifthpar {
+    width: 200px;
+  }
+  .fifthcircle {
+    width: 100px;
+    height: 100px;
+  }
+  .secondcircle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+  }
+  .secondcircle img {
+    width: 100%;
+  }
+  .fifthnnnnssss {
+    font-size: 50px;
+  }
+  .sixth {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15%;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 144px;
+  }
+  .mockupd1 {
+    width: 150px;
+    height: 200px;
+  }
+  .mockupd2 {
+    width: 150px;
+    height: 200px;
+  }
+  .hearticon h5 {
+    font-size: 15px;
+  }
+  .new-events h2 {
+    font-size: 40px;
+  }
+  .gd {
+    width: 600px;
+    height: 390px;
+  }
+  .blue-2011 {
+    width: 73px;
+    height: 390px;
+  }
+  .imgsect {
+    width: 500px;
+    height: 390px;
+  }
+  .blue-2013 {
+    width: 73px;
+    height: 390px;
+  }
+  .ad {
+    width: 500px;
+    height: 390px;
+  }
+  .pa {
+    width: 500px;
+    height: 390px;
+  }
+  .blue-2015 {
+    width: 73px;
+    height: 390px;
+  }
+  .para {
+    width: 269px;
+    height: 59px;
+  }
+  .gd span {
+    font-size: 10px;
+  }
+  .gd h3 {
+    font-size: 20px;
+  }
+  .ad span {
+    font-size: 10px;
+  }
+  .ad h3 {
+    font-size: 20px;
+  }
+  .pa span {
+    font-size: 10px;
+  }
+  .pa h3 {
+    font-size: 20px;
+  }
+
+  .rosa-team-news h2 {
+    font-size: 49px;
+  }
+  .fifthsquares {
+    width: 130px;
+    height: 90px;
+    position: relative;
+  }
+  .thesquares {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  .contactus {
+    width: 100%;
+    height: 360px;
+  }
+  .contact-inputs input {
+    width: 190px;
+  }
+  .lust-input input {
+    width: 600px;
+  }
+}
+@media all and (max-width: 1200px) {
+  .container {
+    width: 400px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  .imgdiv img {
+    width: 100%;
+  }
+  .first {
+    width: 490px;
+  }
+  .roca {
+    max-width: 50px;
+    width: 100%;
+  }
+  .first2 {
+    width: 20px;
+    height: 20px;
+  }
+  .one {
+    font-size: 30px;
+  }
+  .two {
+    font-size: 20px;
+  }
+  .second1 {
+    width: 200px;
+  }
+  .thirt {
+    max-width: 100px;
+  }
+  .second-second {
+    height: 300px;
+  }
+  .name-info1 h2 {
+    font-size: 20px;
+  }
+  .name-info1 p {
+    width: 200px;
+  }
+  .btn {
+    width: 10px;
+    height: 10px;
+  }
+  .imgimg1 img {
+    width: 200px;
+  }
+
+  .forth-forth {
+    width: 490px;
+    height: 372px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+  .maincontainer {
+    width: 70px;
+    height: 150px;
+  }
+  .fifth {
+    width: 100%;
+    height: 150px;
+    flex-wrap: wrap;
+  }
+  .fifthpar {
+    width: 100px;
+  }
+  .fifthcircle {
+    width: 50px;
+    height: 50px;
+  }
+  .secondcircle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+  }
+  .secondcircle img {
+    width: 100%;
+  }
+  .fifthnnnnssss {
+    font-size: 20px;
+  }
+  .sixth {
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 15%;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 144px;
+  }
+  .mockupd1 {
+    width: 80px;
+    height: 100px;
+  }
+  .mockupd2 {
+    width: 80px;
+    height: 100px;
+  }
+  .hearticon h5 {
+    font-size: 15px;
+  }
+  .new-events h2 {
+    font-size: 40px;
+  }
+  .gd {
+    width: 300px;
+    height: 190px;
+  }
+  .blue-2011 {
+    width: 73px;
+    height: 190px;
+  }
+  .imgsect {
+    width: 300px;
+    height: 190px;
+  }
+  .blue-2013 {
+    width: 73px;
+    height: 190px;
+  }
+  .ad {
+    width: 300px;
+    height: 190px;
+  }
+  .pa {
+    width: 300px;
+    height: 190px;
+  }
+  .blue-2015 {
+    width: 73px;
+    height: 190px;
+  }
+  .para {
+    width: 100%;
+    height: 100%;
+  }
+  .gd span {
+    font-size: 10px;
+  }
+  .gd h3 {
+    font-size: 20px;
+  }
+  .ad span {
+    font-size: 10px;
+  }
+  .ad h3 {
+    font-size: 20px;
+  }
+  .pa span {
+    font-size: 10px;
+  }
+  .pa h3 {
+    font-size: 20px;
+  }
+
+  .rosa-team-news h2 {
+    font-size: 29px;
+  }
+  .fifthsquares {
+    width: 60px;
+    height: 390px;
+    position: relative;
+  }
+  .thesquares {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+  }
+  .contactus {
+    width: 100%;
+    /* height: 160px; */
+    /* margin-bottom: 150px; */
+  }
+  .contact-inputs input {
+    width: 100px;
+  }
+  .lust-input input {
+    width: 300px;
+  }
+}
